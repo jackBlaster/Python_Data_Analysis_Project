@@ -51,3 +51,8 @@ The dataset consists of audio features, particularly timbre averages and covaria
 ## Acknowledgments
 
 - This project utilizes the Million Song Dataset, and we extend our gratitude to the contributors and maintainers of the dataset.
+  
+## Conclusions
+
+Our choice is based on the mean absolute error between the predicted set and the actual set of target in each model. 
+Therefore, our journey conducted us to conclude that the Random Forest Classifier, and some models of Neural Network in addition to the Linear Regression are the best options to develop a model based on this dataset.
